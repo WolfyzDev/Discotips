@@ -22,3 +22,18 @@ jobs:
       - uses: retypeapp/action-github-pages@latest
         with:
           update-branch: true
+
+# -----------------------------------------------------------------------------
+
+favicon: static/favicon.png
+
+# -----------------------------------------------------------------------------
+
+footer:
+  copyright: "Discortips - Site non affilié à Discord" # A custom copyright statement.
+  links:               # A list of links to include in the footer.
+                       # See also: links
+    - text: Serveur Support    # The text to use for the link
+      link: https://discord.gg/VmbdqukC8n # Point to an internal file or external URL.
+
+# -----------------------------------------------------------------------------
