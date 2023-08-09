@@ -22,4 +22,9 @@ footer:
       link: https://discord.gg/VmbdqukC8n
 # -----------------------------------------------------------------------------
 
-favicon: favicon.png 
+favicon: assets/favicon.png 
+
+# -----------------------------------------------------------------------------
+
+exclude:
+ - "Assets"
