@@ -15,12 +15,55 @@ date: 2023-08-09
 ==- A partir de quel âge puis-je accéder à Discord ?
 
 De manière générale, l'âge pour accéder à Discord est de **13 ans**. 
-
 Toutefois, l'âge peut varier selon les pays, notamment en raison des législations. 
-
 Ainsi, l'âge en France pour accéder à Discord est de **15 ans**. 
 
-[!ref icon="icon-book" text="Liste complète : âge minimale par pays"](/https://support.discord.com/hc/fr/articles/360040724612)
+Pour tous les pays qui ne figurent pas dans la liste ci-dessous, l'âge minimum pour utiliser Discord est de **13 ans**.
+
+🗺️ Asie
+
+Corée du Sud : 14+
+Vietnam : 15+
+
+🗺️ Caraïbes
+
+Aruba : 16+
+Pays-Bas caribéens : 16+
+Curaçao : 16+
+Sint Maarten : 16+
+
+🗺️ Europe
+
+Autriche : 14+
+Bulgarie : 16+
+Croatie : 16+
+Chypre : 14+
+République tchèque : 15+
+France : 15+
+Allemagne : 16+
+Grèce : 15+
+Hongrie : 16+
+Irlande : 16+
+Italie : 14+
+Lituanie : 14+
+Luxembourg : 16+
+Pays-Bas : 16+
+Pologne : 16+
+Roumanie : 16+
+Saint-Marin : 16+
+Serbie : 15+
+Slovaquie : 16+
+Slovénie : 16+
+Espagne : 14+
+
+🗺️ Amérique du Sud
+
+Chili : 14+
+Colombie : 14+
+Pérou : 14+
+Venezuela : 14+
+
+[!ref icon="icon-book" text="Article du support de Discord"](https://support.discord.com/hc/fr/articles/360040724612)
 
 ==-
 
