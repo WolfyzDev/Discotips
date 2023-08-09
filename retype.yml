@@ -20,3 +20,6 @@ footer:
       link: README.md # Point to an internal file or external URL.
     - text: Serveur support
       link: https://discord.gg/VmbdqukC8n
+# -----------------------------------------------------------------------------
+
+favicon: favicon.png 
