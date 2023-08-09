@@ -4,6 +4,9 @@ Author:
  - name : Wolfyz
    link : https://github.com/WolfyzDev
    avatar : https://avatars.githubusercontent.com/u/93478889?v=4
+ - name : Wolfyz
+   link : https://github.com/WolfyzDev
+   avatar : https://avatars.githubusercontent.com/u/93478889?v=4
 description: L'âge sur Discord
 tags: [Age]
 title: L'âge sur Discord
