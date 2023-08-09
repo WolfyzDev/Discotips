@@ -9,6 +9,7 @@ title: Les badges
 icon: icon-repo-clone
 date: 2023-08-09
 
+
 ---
 
 Les badges utilisateurs sont des badges qui récompensent les utilisateurs et décorent leur profil. 

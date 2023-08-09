@@ -24,5 +24,6 @@ favicon: Assets/favicon.png
 
 # -----------------------------------------------------------------------------
 
-# exclude:
+exclude:
 #  - "Assets"
+  -"temp"
