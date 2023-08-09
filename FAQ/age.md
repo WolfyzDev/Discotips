@@ -4,32 +4,33 @@ Author:
  - name : Wolfyz
    link : https://github.com/WolfyzDev
    avatar : https://avatars.githubusercontent.com/u/93478889?v=4
- - name : Wolfyz
-   link : https://github.com/WolfyzDev
-   avatar : https://avatars.githubusercontent.com/u/93478889?v=4
 description: L'âge sur Discord
 tags: [Age]
 title: L'âge sur Discord
 icon: icon-shield-x
+date: 2023-08-09
 
 ---
 
-## A partir de quel âge puis-je accéder à Discord ? 
+### A partir de quel âge puis-je accéder à Discord ? 
 
 De manière générale, l'âge pour accéder à Discord est de **13 ans**. 
+
 Toutefois, l'âge peut varier selon les pays, notamment en raison des législations. 
 
 Ainsi, l'âge en France pour accéder à Discord est de **15 ans**. 
 
 [!ref icon="icon-book" text="Liste complète : âge minimale par pays"](/https://support.discord.com/hc/fr/articles/360040724612)
 
-## Je n'ai pas l'âge requis, mais j'ai une autorisation parentale pour accéder à Discord. Puis-je utiliser Discord ? 
+### Je n'ai pas l'âge requis, mais j'ai une autorisation parentale pour accéder à Discord. Puis-je utiliser Discord ? 
 
 La réponse est **non**. 
+
 Discord n'autorise pas l'usage de l'application si vous n'avez pas l'âge requis, quelque sois l'autorisation. 
+
 Cela ne fonctionne pas non plus avec une autorisation écrite des parents, ni l'usage de la fonctionnalité `Contrôle parentale`.
 
-## Mon compte a été désactivé en raison de mon âge. Pourtant j'ai l'âge requis. Que faire ? 
+### Mon compte a été désactivé en raison de mon âge. Pourtant j'ai l'âge requis. Que faire ? 
 
 Votre compte a été probablement désactivité en raison d'une phrase malencontreuse dans lequel vous dites avoir moins que l'âge rquis, et qui a été signaler auprès de Discord. 
 
