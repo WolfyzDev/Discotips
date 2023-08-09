@@ -14,7 +14,9 @@ date: 2023-08-09
 Les badges utilisateurs sont des badges qui récompensent les utilisateurs et décorent leur profil. 
 Voici ici la liste des différents badges existants, ainsi que la façon de l'obtenir. 
 
-### ![](/Assets/badges/nitro.png) Nitro 
+###  Nitro 
+
+![](/Assets/badges/nitro.png)-
 
 Pour obtenir le badge `Nitro`, il vous suffit d'avoir Nitro actif sur votre compte. 
 
