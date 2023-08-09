@@ -29,6 +29,19 @@ favicon: static/favicon.png
 
 # -----------------------------------------------------------------------------
 
+branding:
+  title: Discotips                 # Your custom website title; keep it short.
+  logo: static/logo.png          # Path to a logo file.
+  logoAlign: right               # Align the logo to the right or the left.
+  label: Docs # Optional label. To remove the label, remove this config.
+  colors:
+    label:                  # Label colors
+      text: "#ffffff"       # Custom color for the label text.
+      background: "#ff0000" # Custom color for the label background.
+
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+
 footer:
   copyright: "Discortips - Site non affilié à Discord" # A custom copyright statement.
   links:               # A list of links to include in the footer.
